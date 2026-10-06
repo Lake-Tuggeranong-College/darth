@@ -1,0 +1,107 @@
+# ==========================================
+# macOS System Files
+# ==========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# macOS Directory Metadata & Service Stores
+.Spotlight-V100
+.Trashes
+.fseventsd
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Distributed Service & Directory Client (dsclient / Directory Services)
+.dsclient
+.dsclient/
+*.dsclient
+
+# Apple iCloud / Finder temporary sync files
+*.icloud
+
+
+# ==========================================
+# Godot Engine
+# ==========================================
+# Imported resources and internal cache
+.godot/
+.import/
+
+# Imported files tracking
+*.import
+
+# Exported build binaries & packages
+*.apk
+*.aab
+*.a
+*.ar
+*.app
+*.ipa
+*.exe
+*.zip
+*.pck
+*.tpz
+
+
+# ==========================================
+# PlatformIO
+# ==========================================
+# Build files, target binaries, and framework libraries
+.pio/
+.pioenvs/
+.piolibdeps/
+
+
+# ==========================================
+# Editors & IDEs
+# ==========================================
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# JetBrains (CLion, IntelliJ, WebStorm, Rider, etc.)
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Visual Studio / C++
+.vs/
+*.user
+*.userosv
+*.suo
+bin/
+obj/
+
+
+# ==========================================
+# C / C++ & Compiled Binaries
+# ==========================================
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+*.elf
+*.bin
+*.hex
+
+
+# ==========================================
+# General Caches, Logs, & Environment
+# ==========================================
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+.env
+.env.local
